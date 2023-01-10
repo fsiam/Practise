@@ -1,0 +1,21 @@
+.h1 {
+  color: skyblue;
+}
+.h1:hover {
+  color: red;
+  background-color: rgb(250, 250, 64);
+}
+.middle-person:focus {
+  color: blue;
+  font-weight: 700;
+}
+
+.a:visited {
+  color: blue;
+}
+.hero:visited {
+  color: black;
+}
+.youtube:visited {
+  color: aqua;
+}
